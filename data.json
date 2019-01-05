@@ -1,0 +1,632 @@
+{
+    "Food": {
+        "grocery": {
+            "expenses": [
+                {
+                    "amount": "10",
+                    "mandatory": true,
+                    "date": "09-10-2018",
+                    "cause": "Spesa settimanale 111",
+                    "note": ""
+                },
+                {
+                    "amount": "2.5",
+                    "mandatory": true,
+                    "date": "18-10-2018",
+                    "cause": "Panino Bouvette",
+                    "note": ""
+                },
+                {
+                    "amount": "5.42",
+                    "mandatory": true,
+                    "date": "17-10-2018",
+                    "cause": "Cena 111",
+                    "note": ""
+                },
+                {
+                    "amount": "12.9",
+                    "mandatory": true,
+                    "date": "16-10-2018",
+                    "cause": "Cibo",
+                    "note": ""
+                },
+                {
+                    "amount": "6",
+                    "mandatory": true,
+                    "date": "02-11-2018",
+                    "cause": "Pollo alla birra post Halloween e risotto da Sca",
+                    "note": ""
+                },
+                {
+                    "amount": "10",
+                    "mandatory": true,
+                    "date": "04-11-2018",
+                    "cause": "Spesa Penny 111",
+                    "note": "Torta salata e Rame di Napoli"
+                },
+                {
+                    "amount": "10",
+                    "mandatory": true,
+                    "date": "06-11-2018",
+                    "cause": "Spesa 111 settimanale",
+                    "note": ""
+                },
+                {
+                    "amount": "10",
+                    "mandatory": false,
+                    "date": "06-11-2018",
+                    "cause": "Rocculi affucati",
+                    "note": ""
+                },
+                {
+                    "amount": "10",
+                    "mandatory": true,
+                    "date": "12-11-2018",
+                    "cause": "Spesa settimanale 111",
+                    "note": ""
+                },
+                {
+                    "amount": "4",
+                    "mandatory": true,
+                    "date": "12-11-2018",
+                    "cause": "Pranzo Economia",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 80.82
+        },
+        "takeaway": {
+            "expenses": [
+                {
+                    "amount": "5",
+                    "mandatory": true,
+                    "date": "01-10-2018",
+                    "cause": "Pranzo montaditos con Simone Richermo",
+                    "note": ""
+                },
+                {
+                    "amount": "5.5",
+                    "mandatory": true,
+                    "date": "02-10-2018",
+                    "cause": "Bouvette con il Nebbia",
+                    "note": ""
+                },
+                {
+                    "amount": "7",
+                    "mandatory": true,
+                    "date": "05-10-2018",
+                    "cause": "Pranzo con FintechLab",
+                    "note": "Era il pranzo di inizio anno, mi era stato richiesto di partecipare, non potevo dire di no"
+                },
+                {
+                    "amount": "3.5",
+                    "mandatory": true,
+                    "date": "08-10-2018",
+                    "cause": "Pranzo economia",
+                    "note": ""
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": true,
+                    "date": "02-10-2018",
+                    "cause": "cena pizzeria Aselli con il Nebbia",
+                    "note": ""
+                },
+                {
+                    "amount": "11",
+                    "mandatory": true,
+                    "date": "07-10-2018",
+                    "cause": "Cena domenica con pizza",
+                    "note": "Pizzeria Vesuvio, mangiata al 111"
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": true,
+                    "date": "10-10-2018",
+                    "cause": "Pranzo Bouvette",
+                    "note": ""
+                },
+                {
+                    "amount": "6",
+                    "mandatory": true,
+                    "date": "11-10-2018",
+                    "cause": "Pranzo robotlab (piadina)",
+                    "note": "Riunione con PhD Executive"
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": true,
+                    "date": "12-10-2018",
+                    "cause": "Pranzo Bouvette con insalata",
+                    "note": ""
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": true,
+                    "date": "12-10-2018",
+                    "cause": "Cena, serata con i batarranghi a Pavia",
+                    "note": ""
+                },
+                {
+                    "amount": "17.80",
+                    "mandatory": false,
+                    "date": "13-10-2018",
+                    "cause": "Pranzo Giappo con i Batarranghi",
+                    "note": ""
+                },
+                {
+                    "amount": "7.4",
+                    "mandatory": false,
+                    "date": "13-10-2018",
+                    "cause": "Leo's Piada con Nebbia e Patato",
+                    "note": ""
+                },
+                {
+                    "amount": "5",
+                    "mandatory": true,
+                    "date": "16-10-2018",
+                    "cause": "Pranzo Bouvette pizza",
+                    "note": ""
+                },
+                {
+                    "amount": "3.5",
+                    "mandatory": true,
+                    "date": "17-10-2018",
+                    "cause": "Pizza Cretina, robolab (Shardana)",
+                    "note": ""
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": true,
+                    "date": "19-10-2018",
+                    "cause": "Pranzo bouvette, Rotolo",
+                    "note": ""
+                },
+                {
+                    "amount": "7.5",
+                    "mandatory": true,
+                    "date": "24-10-2018",
+                    "cause": "Pizza robolab",
+                    "note": ""
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": true,
+                    "date": "26-10-2018",
+                    "cause": "Kebab cena sabato sera",
+                    "note": ""
+                },
+                {
+                    "amount": "2.4",
+                    "mandatory": false,
+                    "date": "29-10-2018",
+                    "cause": "Caff\u00e8 fintech",
+                    "note": ""
+                },
+                {
+                    "amount": "2.5",
+                    "mandatory": true,
+                    "date": "29-10-2018",
+                    "cause": "Pranzo Bouvette",
+                    "note": ""
+                },
+                {
+                    "amount": "5.5",
+                    "mandatory": true,
+                    "date": "30-10-2018",
+                    "cause": "Pranzo bouvette",
+                    "note": ""
+                },
+                {
+                    "amount": "14",
+                    "mandatory": false,
+                    "date": "03-11-2018",
+                    "cause": "BurgerKing con Simona",
+                    "note": ""
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": true,
+                    "date": "05-11-2018",
+                    "cause": "Primo piatto bouvette",
+                    "note": ""
+                },
+                {
+                    "amount": "5.5",
+                    "mandatory": true,
+                    "date": "06-11-2018",
+                    "cause": "Secondo bouvette",
+                    "note": ""
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": true,
+                    "date": "08-11-2018",
+                    "cause": "Pranzo bouvette",
+                    "note": ""
+                },
+                {
+                    "amount": "1.6",
+                    "mandatory": false,
+                    "date": "07-11-2018",
+                    "cause": "Macchinette uni",
+                    "note": ""
+                },
+                {
+                    "amount": "21",
+                    "mandatory": false,
+                    "date": "11-11-2018",
+                    "cause": "Birrificio Lambrate (panino, patate, birra)",
+                    "note": ""
+                },
+                {
+                    "amount": "4",
+                    "mandatory": true,
+                    "date": "13-11-2018",
+                    "cause": "Pranzo Bouvette",
+                    "note": ""
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": true,
+                    "date": "15-11-2018",
+                    "cause": "Panino Bouvette",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 176.20000000000002
+        },
+        "extra": {
+            "expenses": [
+                {
+                    "amount": "3",
+                    "mandatory": false,
+                    "date": "30-10-2018",
+                    "cause": "Colazione Francesino",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 3.0
+        }
+    },
+    "House": {
+        "bills": {
+            "expenses": [
+                {
+                    "amount": "31",
+                    "mandatory": true,
+                    "date": "30-10-2018",
+                    "cause": "Saldo Anna, bilanciamenti vari",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 31.0
+        },
+        "maintenance": {
+            "expenses": [
+                {
+                    "amount": "5.09",
+                    "mandatory": true,
+                    "date": "16-10-2018",
+                    "cause": "Cose per pulire",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 5.09
+        },
+        "rent": {
+            "expenses": [
+                {
+                    "amount": "300",
+                    "mandatory": true,
+                    "date": "06-10-2018",
+                    "cause": "Affitto di Ottobre",
+                    "note": ""
+                },
+                {
+                    "amount": "300",
+                    "mandatory": true,
+                    "date": "10-11-2018",
+                    "cause": "Affitto Novembre",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 600.0
+        },
+        "stuff": {
+            "expenses": [],
+            "totalOutcome": 0.0
+        }
+    },
+    "Subscriptions": {
+        "voice": {
+            "expenses": [
+                {
+                    "amount": "10",
+                    "mandatory": true,
+                    "date": "07-10-2018",
+                    "cause": "Ricarica Ho mobile",
+                    "note": "La tariffa \u00e8 10\u20ac, ne avanzano 2"
+                },
+                {
+                    "amount": "5",
+                    "mandatory": true,
+                    "date": "07-11-2018",
+                    "cause": "Ho mobile",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 15.0
+        },
+        "others": {
+            "expenses": [
+                {
+                    "amount": "36",
+                    "mandatory": false,
+                    "date": "08-11-2018",
+                    "cause": "Amazon prime",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 36.0
+        }
+    },
+    "Healthcare": {
+        "barbershop": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "cloth": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "doctor": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "medicines": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "soaps": {
+            "expenses": [],
+            "totalOutcome": 0
+        }
+    },
+    "Gifts": {
+        "birthdays": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "christmas": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "degrees": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "friends": {
+            "expenses": [
+                {
+                    "amount": "20",
+                    "mandatory": false,
+                    "date": "09-10-2018",
+                    "cause": "Pasticcini Robolab per apertura anno accademico",
+                    "note": ""
+                },
+                {
+                    "amount": "4",
+                    "mandatory": false,
+                    "date": "13-10-2018",
+                    "cause": "Birretta da Zam per Carlo",
+                    "note": ""
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": false,
+                    "date": "30-10-2018",
+                    "cause": "Colazione Francesino",
+                    "note": ""
+                },
+                {
+                    "amount": "21",
+                    "mandatory": false,
+                    "date": "02-11-2018",
+                    "cause": "Pollo alla birra post Halloween e risotto da Sca",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 49.5
+        },
+        "love": {
+            "expenses": [
+                {
+                    "amount": "14",
+                    "mandatory": false,
+                    "date": "03-11-2018",
+                    "cause": "BurgerKing con Simona",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 14.0
+        },
+        "marriage": {
+            "expenses": [],
+            "totalOutcome": 0
+        }
+    },
+    "Fun": {
+        "alcol": {
+            "expenses": [
+                {
+                    "amount": "7",
+                    "mandatory": false,
+                    "date": "05-10-2018",
+                    "cause": "Serata con i Miscos a Pavia",
+                    "note": ""
+                },
+                {
+                    "amount": "4.5",
+                    "mandatory": false,
+                    "date": "13-10-2018",
+                    "cause": "Birretta da Zam serata Batarranghi",
+                    "note": ""
+                },
+                {
+                    "amount": "2",
+                    "mandatory": false,
+                    "date": "26-10-2018",
+                    "cause": "Birra per Kebab",
+                    "note": ""
+                },
+                {
+                    "amount": "10",
+                    "mandatory": false,
+                    "date": "09-11-2018",
+                    "cause": "Birre con Loris",
+                    "note": "compleanno Loris"
+                },
+                {
+                    "amount": "6",
+                    "mandatory": false,
+                    "date": "11-11-2018",
+                    "cause": "Birrificio Lambrate (birra)",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 29.5
+        },
+        "events": {
+            "expenses": [
+                {
+                    "amount": "23.40",
+                    "mandatory": false,
+                    "date": "27-10-2018",
+                    "cause": "Costume Halloween",
+                    "note": ""
+                },
+                {
+                    "amount": "13.5",
+                    "mandatory": false,
+                    "date": "10-11-2018",
+                    "cause": "Cena da Silvia e Riccardo",
+                    "note": "Il 111 ha pagato l'alcol"
+                },
+                {
+                    "amount": "4",
+                    "mandatory": false,
+                    "date": "11-11-2018",
+                    "cause": "Teatro Baricco Pavia",
+                    "note": "14 Dic"
+                }
+            ],
+            "totalOutcome": 40.9
+        },
+        "hobbies": {
+            "expenses": [
+                {
+                    "amount": "7.5",
+                    "mandatory": false,
+                    "date": "11-11-2018",
+                    "cause": "Partita a calcetto Lambrate",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 7.5
+        },
+        "software": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "hardware": {
+            "expenses": [
+                {
+                    "amount": "11.59",
+                    "mandatory": false,
+                    "date": "12-11-2018",
+                    "cause": "Chiavetta USB",
+                    "note": ""
+                },
+                {
+                    "amount": "4.99",
+                    "mandatory": true,
+                    "date": "12-11-2018",
+                    "cause": "Auricolari",
+                    "note": ""
+                },
+                {
+                    "amount": "14.99",
+                    "mandatory": false,
+                    "date": "14-11-2018",
+                    "cause": "Luci led ambientali (letto)",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 31.57
+        }
+    },
+    "Transports": {
+        "goingHome": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "other": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "weekends": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "public": {
+            "expenses": [
+                {
+                    "amount": "108",
+                    "mandatory": true,
+                    "date": "01-10-2018",
+                    "cause": "Io viaggio ottobre",
+                    "note": ""
+                },
+                {
+                    "amount": "108",
+                    "mandatory": true,
+                    "date": "03-11-2018",
+                    "cause": "Io viaggio Novembre",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 216.0
+        },
+        "trip": {
+            "expenses": [],
+            "totalOutcome": 0
+        }
+    },
+    "Documents and Fees": {
+        "document": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "fee": {
+            "expenses": [
+                {
+                    "amount": "156",
+                    "mandatory": true,
+                    "date": "04-10-2018",
+                    "cause": "Tassa immatricolazione dottorato",
+                    "note": ""
+                }
+            ],
+            "totalOutcome": 156.0
+        },
+        "fine": {
+            "expenses": [],
+            "totalOutcome": 0
+        },
+        "insurance": {
+            "expenses": [],
+            "totalOutcome": 0
+        }
+    }
+}
